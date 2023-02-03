@@ -7,7 +7,7 @@ This repo presents two important review papers' summary:
 
 # Challenges in Deploying Machine Learning: A Survey of Case Studies
 
-![Figure 1: Considerations, Issues, and Concerns explored in the study](README_figuresAI_Challanges-Map_1.png)
+![Figure 1: Considerations, Issues, and Concerns explored in the study](README_figures/AI_Challanges-Map_1.png)
 
 Figure 1: Considerations, Issues, and Concerns explored in the study
 
